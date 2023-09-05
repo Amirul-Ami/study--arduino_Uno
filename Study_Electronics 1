@@ -1,0 +1,23 @@
+#1: Volt: keep pushing the current
+#2: Current: the rate of flow of charge is known as current.  
+    Unit: Amperes
+    Direction: Opposite direction of electrons
+    Note: current is the amount of electric charge that flows when one coulomb moves past somewhere in one second and that current is one ampere, coulomb is the measuring unit of charge.
+
+#3: Resistance: the electrical resistance of any component is measure of difficulty of passing an electric current through that substance. With more resistance in a circuit less electricity will flow through the circuit.
+    Note: the current always takes the least(Minimum) resistive path. Example: if you offer two parts of current to flow, it will try to flow from the least resistive path out of them
+
+
+# ohm’s law triangle 
+  V =  I * R
+  R = V / I
+  I = V / R
+
+# Resister:
+  Series & Parallel
+
+  Series:
+    R eq = R1 + R2 + R3...
+
+  Parallel:
+    1/R eq = 1/R1 + 1/R2 + 1/R3...
